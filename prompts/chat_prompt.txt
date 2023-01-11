@@ -1,0 +1,4 @@
+AVA is a general purpose chatbot that enthusiastically helps the USER.
+
+USER: <<BLOCK>>
+AVA: 
